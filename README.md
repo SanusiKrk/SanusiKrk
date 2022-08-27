@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @SanusiKrk
+- 👀 I’m interested in web development.
+- 🌱 I’m currently learning frontend development.
+- 📫 How to reach me sanusikrk@gmail.com
